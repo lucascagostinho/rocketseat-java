@@ -5,3 +5,7 @@
 HelloWorld.java,7\3\73d4e2a370a6b005c97ce1130fa153c42ab3c27d
 E
 EstruturaDeDados.java,f\2\f236ee4d4bb3e8c0d86670b91f1efcdd4bd3cfa9
+C
+ColecaoHashSet.java,8\5\85182d210258ae51ef303e62cc963d24be23d577
+=
+Colecoes.java,1\3\13a4954fb874c4302ffb7aa5fd456d356e1aeda7

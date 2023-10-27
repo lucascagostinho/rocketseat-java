@@ -1,7 +1,9 @@
+package primeirasaulas;
+
 import java.util.ArrayList;
 
 /*
- * HelloWorld = Nome da minha classe
+ * primeirasaulas.HelloWorld = Nome da minha classe
  * public = Tipo de acesso da classe
  * class = tipo da classe
  */
