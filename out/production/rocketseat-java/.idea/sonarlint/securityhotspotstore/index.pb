@@ -13,3 +13,7 @@ B
 pessoa/Pessoa.java,f\d\fde124d68ca63794daae99c922c85d1c3d7081ed
 I
 pessoa/TesteDePessoa.java,2\9\29744c10dcb85e50e9bbb39bf488390c53c29c5a
+H
+conta/ContaBancaria.java,a\4\a457926d5325388180d032d1740f9add4b876437
+M
+conta/TesteContaBancaria.java,5\e\5ed3c20bfcf11bf3834080d6323298413037848f
